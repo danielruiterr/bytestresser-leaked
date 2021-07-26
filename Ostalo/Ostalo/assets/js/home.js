@@ -1,0 +1,1 @@
+$("#AppJS").load("index");
