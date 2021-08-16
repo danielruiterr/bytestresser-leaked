@@ -25,14 +25,19 @@ Attack hub
 Deposit
 ![image](https://user-images.githubusercontent.com/60288878/129552106-b2a6939a-3c54-403d-b4e8-e89d02de7468.png)
 
+Shop
 ![image](https://user-images.githubusercontent.com/60288878/129552352-6f8e794e-8f3c-4c26-92ef-f5c7369a68d5.png)
 
+New ticket
 ![image](https://user-images.githubusercontent.com/60288878/129552383-3ca41652-b95e-4092-b86e-863dc50596fe.png)
 
+Help Desk
 ![image](https://user-images.githubusercontent.com/60288878/129552403-ab2880f5-da55-4ab2-b3e8-dd377b7abca7.png)
 
+FAQ
 ![image](https://user-images.githubusercontent.com/60288878/129552429-f407ac06-60fa-4005-9ec0-3c32aecac928.png)
 
+Profile
 ![image](https://user-images.githubusercontent.com/60288878/129552457-58b340f8-3dca-4590-85e6-cfe05b2e1070.png)
 
 
