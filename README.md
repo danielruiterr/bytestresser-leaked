@@ -1,4 +1,4 @@
-*Booter Source Panel*
+*Booter Source Panel* (ByteStresser.com)
 
 Features:
 
