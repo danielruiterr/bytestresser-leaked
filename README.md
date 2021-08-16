@@ -10,8 +10,10 @@ Features:
 
 Images: 
 
+Login
 ![image](https://user-images.githubusercontent.com/60288878/129551673-0d501356-f9fe-4085-b6d4-8a44243a2c5b.png)
 
+Register:
 ![image](https://user-images.githubusercontent.com/60288878/129551823-5465869d-7e8f-421d-900c-8c07eda34b2d.png)
 
 ![image](https://user-images.githubusercontent.com/60288878/129552035-02d1a51d-a7a3-4497-a6da-a8f4111929b3.png)
