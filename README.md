@@ -31,6 +31,9 @@ Shop
 New ticket
 ![image](https://user-images.githubusercontent.com/60288878/129552383-3ca41652-b95e-4092-b86e-863dc50596fe.png)
 
+View Ticket
+![image](https://user-images.githubusercontent.com/60288878/129552712-cc0fe9b0-f5f3-4c98-a808-fda4531b26f8.png)
+
 Help Desk
 ![image](https://user-images.githubusercontent.com/60288878/129552403-ab2880f5-da55-4ab2-b3e8-dd377b7abca7.png)
 
